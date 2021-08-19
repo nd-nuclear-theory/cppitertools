@@ -1,1 +1,5 @@
 bazel-*
+[Mm]akefile
+/config.mk
+*.o
+/libcppitertools.a
